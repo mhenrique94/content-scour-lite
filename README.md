@@ -31,7 +31,7 @@ Here\'s what it does:
 
 -   Uses a large language model (LLM) providade by Groq to answer the user\'s question based on the retrieved documents and a customizable prompt.
 
-### ChatBot -- Awan LLM {#chatbot-awan-llm-7}
+### ChatBot
 
 Answers user-input questions based on standard pre-trained model provided by AwanLLM. [*https://www.awanllm.com*](https://www.awanllm.com/).
 
